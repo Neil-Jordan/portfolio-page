@@ -45,6 +45,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     background: var(--clr-light);
     color: var(--clr-dark);
@@ -222,6 +223,9 @@ header {
     opacity: 0;
 }
 
+.fixed-position {
+    position: fixed;
+}
 
 .hamburger {
     display: block;
